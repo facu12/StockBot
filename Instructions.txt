@@ -1,0 +1,4 @@
+1) Open the solution
+2) Configure the database connection in the app.settings.json file
+3) Run the command update-database to re-populate the database locally
+4) The solution is set to run multiple projects at the same time (chatroom and stock API)
